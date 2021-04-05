@@ -8,6 +8,7 @@ At this moment I have knowledge about:
 - Backend development using NodeJS with Express, PHP with Laravel and Python with Django
 - Hybrid mobile development applications with Ionic.
 
+More about me:
 - 💻 Systems Analyst graduated from Escuela Politecnica Nacional.
 - 🏢 Web && Mobile Developer at Rociosoft (2019-2021)
 - 🚀 I have taken courses in Platzi, EDteam, Codigo Facilito y Udemy.
