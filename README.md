@@ -1,5 +1,13 @@
 # Stalin Maza - @stalinct97 🇪🇨
 
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/stalinct97" target="_blank">
+    <img alt="Twitter: stalinct97" src="https://img.shields.io/twitter/follow/stalinct97.svg?style=social" />
+  </a>
+</p>
+
+
 **Website** www.stalinmaza.com
  
 ## Welcome 👋
@@ -33,6 +41,11 @@ More about me:
 - [Basic Blog Design with ReactJS](https://reactcms-design97.netlify.app/blog)
 - [Coronavirus map in Ecuador with data from a NodeJS backend](https://coronavirus-ec-sm-2019.netlify.app)
 - [Personal Frontend Challenges HTML,CSS,JS](https://retos-frontend-smdev.netlify.app)
+
+## My Github Stats
+
+[![Stalin Maza GitHub stats](https://github-readme-stats.vercel.app/api?username=StalinMazaEpn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **StalinMazaEpn/StalinMazaEpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
