@@ -46,6 +46,10 @@ More about me:
 
 [![Stalin Maza GitHub stats](https://github-readme-stats.vercel.app/api?username=StalinMazaEpn)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StalinMazaEpn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **StalinMazaEpn/StalinMazaEpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
