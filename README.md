@@ -20,7 +20,7 @@ At this moment I have knowledge about:
 
 More about me:
 - 💻 Systems Analyst graduated from Escuela Politecnica Nacional.
-- 🏢 Web && Mobile Developer at Rociosoft (2019-2021)
+- 🏢 Web && Mobile Developer at handytec (2021-Currently)
 - 🚀 I have taken courses in Platzi, EDteam, Codigo Facilito y Udemy.
 - 📫 You can visit my website to learn more about me in my personal site [here](https://www.stalinmaza.com)
 - 📰 I have some articles written in [Hashnode Devblog](https://stalinmaza97.hashnode.dev)
