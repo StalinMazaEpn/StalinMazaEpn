@@ -15,7 +15,7 @@
 I am an Ecuadorian guy who likes and is passionate about learning about technology.
 At this moment I have knowledge about:
 - Frontend development on the frontend using HTML, CSS, Javascript and Angular 
-- Backend development using NodeJS with Express, PHP with Laravel and Python with Django
+- Backend development using NodeJS with Express, PHP with Laravel, Spring Boot with Java and .NET.
 - Hybrid mobile development applications with Ionic.
 
 More about me:
@@ -24,7 +24,6 @@ More about me:
 - 🚀 I have taken courses in Platzi, EDteam, Codigo Facilito y Udemy.
 - 📫 You can visit my website to learn more about me in my personal site [here](https://www.stalinmaza.com)
 - 📰 I have some articles written in [Hashnode Devblog](https://stalinmaza97.hashnode.dev)
-- 🌱 I am currently learning computer security at [Mastech Academy](https://educa.mastech.academy)
 - 💬 Ask me anything you want.
 
 ## Some of my projects
